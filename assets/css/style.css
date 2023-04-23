@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+    }
+
+.result {
+    margin-top: 20px;
+    }
+    code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 6px;
+    }
+
+a {
+    color: #c7254e !important;
+    text-decoration: none;
+    background-color: transparent;
+    }
